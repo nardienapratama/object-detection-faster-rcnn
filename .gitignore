@@ -105,16 +105,17 @@ ENV/
 *.pbtxt
 checkpoint
 
+./.git/objects/pack/pack-905c6c586028af3c216962717dbaf9ebbabb55d9.pack
+./.git/objects/pack/pack-c1c67c776fcdeec2680e3e3feaa657bffcfabe63.pack
+./.git/objects/pack/pack-905c6c586028af3c216962717dbaf9ebbabb55d9.pack
+./.git/objects/pack/pack-c1c67c776fcdeec2680e3e3feaa657bffcfabe63.pack
+./.git/objects/pack/pack-905c6c586028af3c216962717dbaf9ebbabb55d9.pack
+./.git/objects/pack/pack-c1c67c776fcdeec2680e3e3feaa657bffcfabe63.pack
 
+ssds_and_rcnn/lisa/[acdnrtv]*
+ssds_and_rcnn/synthetic_dataset
+ssds_and_rcnn/lisa/experiments/training/[events|model]*
 community/
 official/
 orbit/
-# researc
 
-ssds_and_rcnn/lisa
-ssds_and_rcnn/lisa/experiments./ssds_and_rcnn/lisa/experiments/training/faster_rcnn_resnet101_coco_2018_01_28/frozen_inference_graph.pb
-./ssds_and_rcnn/lisa/experiments/training/faster_rcnn_resnet101_coco_2018_01_28/model.ckpt.data-00000-of-00001
-./ssds_and_rcnn/lisa/experiments/training/faster_rcnn_resnet101_coco_2018_01_28/saved_model/saved_model.pb
-./ssds_and_rcnn/lisa/experiments/training/faster_rcnn_resnet101_coco_2018_01_28.tar.gz
-./ssds_and_rcnn/lisa/records/testing.record
-./ssds_and_rcnn/lisa/records/training.record
