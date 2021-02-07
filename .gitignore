@@ -115,7 +115,24 @@ checkpoint
 ssds_and_rcnn/lisa/[acdnrtv]*
 ssds_and_rcnn/synthetic_dataset
 ssds_and_rcnn/lisa/experiments/training/[events|model]*
+
 community/
 official/
 orbit/
 
+ssds_and_rcnn/lisa/experiments/training/model.ckpt-30000.data-00000-of-00001
+ssds_and_rcnn/lisa/experiments/training/eval_0/events.out.tfevents.1612685682.nardiena-legion-ubuntu
+ssds_and_rcnn/lisa/experiments/training/faster_rcnn_resnet101_coco_2018_01_28/saved_model/saved_model.pb
+ssds_and_rcnn/lisa/experiments/training/faster_rcnn_resnet101_coco_2018_01_28/model.ckpt.data-00000-of-00001
+ssds_and_rcnn/lisa/experiments/training/faster_rcnn_resnet101_coco_2018_01_28/frozen_inference_graph.pb
+ssds_and_rcnn/lisa/experiments/training/model.ckpt-25981.data-00000-of-00001
+ssds_and_rcnn/lisa/experiments/training/export/Servo/1612691949/variables/variables.data-00000-of-00001
+ssds_and_rcnn/lisa/experiments/training/faster_rcnn_resnet101_coco_2018_01_28.tar.gz
+ssds_and_rcnn/lisa/experiments/training/model.ckpt-24225.data-00000-of-00001
+ssds_and_rcnn/lisa/experiments/training/model.ckpt-27751.data-00000-of-00001
+ssds_and_rcnn/lisa/experiments/training/model.ckpt-29520.data-00000-of-00001
+ssds_and_rcnn/lisa/experiments/exported_model/saved_model/saved_model.pb
+ssds_and_rcnn/lisa/experiments/exported_model/model.ckpt.data-00000-of-00001
+ssds_and_rcnn/lisa/experiments/exported_model/frozen_inference_graph.pb
+ssds_and_rcnn/lisa/records/testing.record
+ssds_and_rcnn/lisa/records/training.record
