@@ -1,0 +1,7895 @@
+{
+  "version": "0.0.1",
+  "captures": [
+    {
+      "id": "5eba0dba-8a07-4c68-b79f-ea168cc0e25c",
+      "sequence_id": "7098382a-8f4f-4892-bc93-94e014b0f5cc",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -25.3201561,
+          7.05214453,
+          -11.9858294
+        ],
+        "rotation": [
+          0.231453627,
+          -0.4874738,
+          0.135793149,
+          0.8308783
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_902.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "9f77939d-2977-4943-8e66-7832f9211885",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 624.0,
+  "y": 370.0,
+  "width": 99.0,
+  "height": 145.0
+}
+          ]
+        },
+        {
+          "id": "411dd53f-5e30-4999-a43d-0f3b7aadd824",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_902.png"
+        }
+      ]
+    },
+    {
+      "id": "5fa5c6e7-d170-4fac-88df-2354b5a518c9",
+      "sequence_id": "882a8ed7-fbdc-446c-870b-ce86560191bf",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -25.202322,
+          7.04413748,
+          -11.8884058
+        ],
+        "rotation": [
+          0.230703846,
+          -0.484768122,
+          0.134272963,
+          0.8329144
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_903.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "75806f6d-8fc2-4c7f-ac10-0fdd7159a8f6",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 549.0,
+  "y": 349.0,
+  "width": 148.0,
+  "height": 163.0
+}
+          ]
+        },
+        {
+          "id": "e1434330-8ba2-42d9-b7a6-ad89fef295b0",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_903.png"
+        }
+      ]
+    },
+    {
+      "id": "7a8245dd-9d4f-4e98-9983-7791664b2765",
+      "sequence_id": "bdca7da2-19eb-4285-9308-b649b5c22a3e",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -25.14692,
+          7.036134,
+          -11.84573
+        ],
+        "rotation": [
+          0.229941368,
+          -0.482053846,
+          0.132756814,
+          0.834941149
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_904.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e057eaa9-d7a5-4608-b078-c370149ceaf6",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 463.0,
+  "y": 283.0,
+  "width": 256.0,
+  "height": 256.0
+}
+          ]
+        },
+        {
+          "id": "5a6f88b9-7765-436a-b352-814d69511a3a",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_904.png"
+        }
+      ]
+    },
+    {
+      "id": "8cfb44a4-2119-418f-bf7e-5c4e3e308c7a",
+      "sequence_id": "daed5774-86c2-4c42-b4b8-8107a1355206",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -25.0915947,
+          7.02813,
+          -11.8030024
+        ],
+        "rotation": [
+          0.229166165,
+          -0.479331017,
+          0.1312448,
+          0.836958468
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_905.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "879261e4-3301-4c9a-934f-ca7dfb9a5c15",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 528.0,
+  "y": 429.0,
+  "width": 246.0,
+  "height": 184.0
+}
+          ]
+        },
+        {
+          "id": "fc42af2e-12f9-45dc-a5dd-81e73dfba667",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_905.png"
+        }
+      ]
+    },
+    {
+      "id": "aa210e9e-acae-47b8-968e-034b03beaea4",
+      "sequence_id": "24db5631-9ed9-420f-8592-1dc1eec99831",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -25.0363617,
+          7.020127,
+          -11.7602282
+        ],
+        "rotation": [
+          0.228378624,
+          -0.4765994,
+          0.129737169,
+          0.8389663
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_906.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "95d499b1-b1d9-49a5-9dde-98b07ba18d24",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 574.0,
+  "y": 373.0,
+  "width": 119.0,
+  "height": 135.0
+}
+          ]
+        },
+        {
+          "id": "51df4e7c-4ad3-4515-bc91-6c30fc550d0f",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_906.png"
+        }
+      ]
+    },
+    {
+      "id": "a3bd42b5-a9fe-4c9f-8530-c86d9b2cede9",
+      "sequence_id": "34faa9a9-886b-45bb-abe7-1cd98db66ebe",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -25.0363617,
+          7.020127,
+          -11.7602282
+        ],
+        "rotation": [
+          0.228378624,
+          -0.4765994,
+          0.129737169,
+          0.8389663
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_907.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "5e2bae43-c879-48c2-9f45-d2fabf758a20",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 444.0,
+  "y": 269.0,
+  "width": 298.0,
+  "height": 243.0
+}
+          ]
+        },
+        {
+          "id": "22432132-906d-44db-9b97-1392eef022d0",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_907.png"
+        }
+      ]
+    },
+    {
+      "id": "c1230e82-1104-429a-9fb6-d08e545a959e",
+      "sequence_id": "510045c6-e369-4090-8ec6-00caa0e38780",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.9188652,
+          7.01212,
+          -11.6626091
+        ],
+        "rotation": [
+          0.227578282,
+          -0.47385937,
+          0.12823382,
+          0.8409646
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_908.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "21cbe2ec-a345-4006-91ee-490fbf89ecbe",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 472.0,
+  "y": 322.0,
+  "width": 231.0,
+  "height": 246.0
+}
+          ]
+        },
+        {
+          "id": "94f9fc17-f236-4f94-b1b6-388192d29e33",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_908.png"
+        }
+      ]
+    },
+    {
+      "id": "77d1f7cb-26b7-457e-8389-e2309f7eb4be",
+      "sequence_id": "6b8c9bde-74d2-4e9d-85e7-b03faf811ae1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.8637962,
+          7.004116,
+          -11.6197338
+        ],
+        "rotation": [
+          0.2267654,
+          -0.47111097,
+          0.126735,
+          0.842953265
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_909.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "7246bc5f-f428-4788-9631-e8eab08a268f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 576.0,
+  "y": 305.0,
+  "width": 250.0,
+  "height": 265.0
+}
+          ]
+        },
+        {
+          "id": "6b5779a1-fb48-4c2b-a2d9-a13584127735",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_909.png"
+        }
+      ]
+    },
+    {
+      "id": "fa96d2ee-f3da-45f8-986e-2d64b66b2bad",
+      "sequence_id": "f113c584-4d03-4aa7-b79f-5a77ca63da7f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.8085632,
+          6.996114,
+          -11.5770884
+        ],
+        "rotation": [
+          0.225940078,
+          -0.468353868,
+          0.1252407,
+          0.844932258
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_910.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a2e890fd-140d-4f6a-a641-fa3b9bfc9a64",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 561.0,
+  "y": 347.0,
+  "width": 274.0,
+  "height": 179.0
+}
+          ]
+        },
+        {
+          "id": "8835ba63-c8eb-4f49-bd3a-eea314724160",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_910.png"
+        }
+      ]
+    },
+    {
+      "id": "31206e2f-5c91-492d-9ab3-413879632630",
+      "sequence_id": "ab1663c2-3c83-4a2b-99f5-67f720da55e2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.7529678,
+          6.9881134,
+          -11.5349083
+        ],
+        "rotation": [
+          0.225101948,
+          -0.46558854,
+          0.123750977,
+          0.8469015
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_911.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "460635d5-48ce-47f6-9910-a65a38abc781",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 527.0,
+  "y": 289.0,
+  "width": 168.0,
+  "height": 218.0
+}
+          ]
+        },
+        {
+          "id": "9ab05ca8-5792-476c-8fa8-978922a4f30f",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_911.png"
+        }
+      ]
+    },
+    {
+      "id": "35bb5012-023a-48d4-8721-1e795f36feef",
+      "sequence_id": "d9829dc4-e110-459c-a59f-4fa2a0de955c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.6974564,
+          6.98011351,
+          -11.4926777
+        ],
+        "rotation": [
+          0.2242514,
+          -0.46281445,
+          0.12226592,
+          0.848861158
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_912.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d3373a7f-bfb1-4f36-abd7-fd64b5225e7a",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 457.0,
+  "y": 395.0,
+  "width": 258.0,
+  "height": 228.0
+}
+          ]
+        },
+        {
+          "id": "3441f9c1-f7de-4fa6-a03a-2e4a49f9b1e3",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_912.png"
+        }
+      ]
+    },
+    {
+      "id": "a0419354-55c8-4551-aa2a-942992dcd711",
+      "sequence_id": "9a8d2613-9970-44bd-b7d6-fc88ed00f33f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.6974564,
+          6.98011351,
+          -11.4926777
+        ],
+        "rotation": [
+          0.2242514,
+          -0.46281445,
+          0.12226592,
+          0.848861158
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_913.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "2237e8f1-58b5-44e1-b4ef-eb0065fb881e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 572.0,
+  "y": 447.0,
+  "width": 130.0,
+  "height": 103.0
+}
+          ]
+        },
+        {
+          "id": "e5675142-4820-44b2-839e-f329937d9c90",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_913.png"
+        }
+      ]
+    },
+    {
+      "id": "ea9b578a-298c-46dd-a465-17c02f484748",
+      "sequence_id": "d1cd80bc-5e79-4a71-8815-deb1ba524cf1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.578989,
+          6.97211266,
+          -11.3963947
+        ],
+        "rotation": [
+          0.223388255,
+          -0.460032016,
+          0.120785661,
+          0.8508109
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_914.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d9e8cf4d-3581-479a-8e76-4c0e45417341",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 515.0,
+  "y": 418.0,
+  "width": 179.0,
+  "height": 194.0
+}
+          ]
+        },
+        {
+          "id": "17626b3b-bb58-4f38-b924-62a53a8bb166",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_914.png"
+        }
+      ]
+    },
+    {
+      "id": "72686f5f-4a14-44d1-9878-10dbebb3883b",
+      "sequence_id": "5abbb6c4-a236-4c4b-9120-2d7f7f219be1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.5236416,
+          6.96411228,
+          -11.3540564
+        ],
+        "rotation": [
+          0.222512737,
+          -0.4572413,
+          0.119310394,
+          0.8527506
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_915.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f280bd0f-b439-4d54-81e1-4cb68c0cb6a9",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 492.0,
+  "y": 427.0,
+  "width": 207.0,
+  "height": 194.0
+}
+          ]
+        },
+        {
+          "id": "01ed30a2-0082-4513-8a6f-a7917ef9421b",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_915.png"
+        }
+      ]
+    },
+    {
+      "id": "7d38a87f-7e7c-49c1-86be-00ea0110667e",
+      "sequence_id": "7816f900-40f3-42f4-b5eb-c6c9952367aa",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.46837,
+          6.95611238,
+          -11.3116617
+        ],
+        "rotation": [
+          0.221624553,
+          -0.454442054,
+          0.117839955,
+          0.854680538
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_916.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bc4df6c2-6e8b-4c1a-9f81-3716a4dc4a96",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 513.0,
+  "y": 275.0,
+  "width": 210.0,
+  "height": 214.0
+}
+          ]
+        },
+        {
+          "id": "72fd4520-34d3-42ce-94b2-3db589310f90",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_916.png"
+        }
+      ]
+    },
+    {
+      "id": "e3d807dc-2ddd-4de8-9981-491864331850",
+      "sequence_id": "306cbfe7-1349-4770-bde6-5522c3094804",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.4131851,
+          6.948112,
+          -11.2692156
+        ],
+        "rotation": [
+          0.220724016,
+          -0.451634467,
+          0.116374649,
+          0.856600344
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_917.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "7fdbbedf-573e-4d03-8051-888333bf6da7",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 537.0,
+  "y": 309.0,
+  "width": 243.0,
+  "height": 223.0
+}
+          ]
+        },
+        {
+          "id": "953307f7-ba3b-42ce-b2d4-e29fb4b521fe",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_917.png"
+        }
+      ]
+    },
+    {
+      "id": "8fab2dae-412c-432e-a627-a2d0a2d1cd64",
+      "sequence_id": "2470c2c3-bfbe-4228-8607-8a54e64e5817",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.35808,
+          6.940112,
+          -11.2267132
+        ],
+        "rotation": [
+          0.219810933,
+          -0.448818654,
+          0.114914484,
+          0.858510137
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_918.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "5daa9eb6-7e4a-4753-ae9b-ca50e78f686f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 428.0,
+  "y": 238.0,
+  "width": 265.0,
+  "height": 331.0
+}
+          ]
+        },
+        {
+          "id": "6f7f0864-eea2-4642-a11f-9b667a29cc2b",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_918.png"
+        }
+      ]
+    },
+    {
+      "id": "4fd0759b-661b-47b5-b092-59fdb4e0799a",
+      "sequence_id": "17feedc4-3465-490f-868b-9a63277f9cb9",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.35808,
+          6.940112,
+          -11.2267132
+        ],
+        "rotation": [
+          0.219810933,
+          -0.448818654,
+          0.114914484,
+          0.858510137
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_919.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "cf072d22-a9f3-4420-a93d-d1e3a2e1bc9c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 565.0,
+  "y": 372.0,
+  "width": 165.0,
+  "height": 141.0
+}
+          ]
+        },
+        {
+          "id": "732fcb2f-905a-45b2-8fd3-c78ee37fc9a6",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_919.png"
+        }
+      ]
+    },
+    {
+      "id": "fdedecc0-ee8f-4bc9-98bf-27f19404683b",
+      "sequence_id": "34721dec-7b7e-4194-b0d3-f2092e45fa50",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.240015,
+          6.93211126,
+          -11.1301584
+        ],
+        "rotation": [
+          0.218885317,
+          -0.4459944,
+          0.113459446,
+          0.8604099
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_920.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f797c71f-8e97-459a-8e77-bfc520aa7862",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 512.0,
+  "y": 364.0,
+  "width": 170.0,
+  "height": 151.0
+}
+          ]
+        },
+        {
+          "id": "c1165a86-3813-4893-899f-f800007f7cbc",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_920.png"
+        }
+      ]
+    },
+    {
+      "id": "d2fede2e-31f6-403e-bc01-10e280368ea0",
+      "sequence_id": "30ccdd4d-b471-4ec3-b8e0-55238b9f3363",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.1850681,
+          6.924111,
+          -11.0875454
+        ],
+        "rotation": [
+          0.2179472,
+          -0.443162173,
+          0.112009779,
+          0.8622993
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_921.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a5c9dbaf-14ba-4617-b3ca-ad3f9d92c48d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 532.0,
+  "y": 355.0,
+  "width": 114.0,
+  "height": 148.0
+}
+          ]
+        },
+        {
+          "id": "68480b6e-7523-4156-8c15-db22b61c2579",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_921.png"
+        }
+      ]
+    },
+    {
+      "id": "e18f0666-c666-4edc-ab5f-a2babec65160",
+      "sequence_id": "3fd97270-1f2a-4436-ab7b-38b799ef954e",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.1302,
+          6.91611052,
+          -11.0448713
+        ],
+        "rotation": [
+          0.2169969,
+          -0.4403212,
+          0.110565484,
+          0.8641787
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_922.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "9f3c44d2-c7a1-4a1a-a833-a5c98b03707f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 587.0,
+  "y": 400.0,
+  "width": 100.0,
+  "height": 180.0
+}
+          ]
+        },
+        {
+          "id": "5128cd11-0d02-4325-a8b5-c4aaf9d0851e",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_922.png"
+        }
+      ]
+    },
+    {
+      "id": "19b333b5-18c4-491a-b53f-da2c9517fef6",
+      "sequence_id": "35eaef5f-a383-4850-bd9f-08492bf92633",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.07541,
+          6.90811062,
+          -11.0021448
+        ],
+        "rotation": [
+          0.21603395,
+          -0.437472433,
+          0.109126665,
+          0.8660477
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_923.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "21db348c-b57c-42b6-a7e8-07cdc52a9871",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 538.0,
+  "y": 449.0,
+  "width": 149.0,
+  "height": 119.0
+}
+          ]
+        },
+        {
+          "id": "ba86b8dc-0c46-4891-939c-704cd9559008",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_923.png"
+        }
+      ]
+    },
+    {
+      "id": "abac4c8d-4ce1-4ea5-b174-b9f32f635197",
+      "sequence_id": "e44a005b-b5a0-4886-a598-18a61540b56f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.0207024,
+          6.90011,
+          -10.95936
+        ],
+        "rotation": [
+          0.215058655,
+          -0.434615225,
+          0.107693367,
+          0.867906451
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_924.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "ab67f72d-75a9-4188-a663-0186df499b59",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 507.0,
+  "y": 387.0,
+  "width": 216.0,
+  "height": 170.0
+}
+          ]
+        },
+        {
+          "id": "7d87f8e3-73fe-4759-bffe-b452453d235a",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_924.png"
+        }
+      ]
+    },
+    {
+      "id": "b06df279-b893-4d95-86f0-6402320ad02c",
+      "sequence_id": "1dc50f57-c61b-4412-bd9c-56b219ba535e",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -24.0207024,
+          6.90011,
+          -10.95936
+        ],
+        "rotation": [
+          0.215058655,
+          -0.434615225,
+          0.107693367,
+          0.867906451
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_925.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e831f9ff-7d97-4d6c-8abe-05c24fc22d01",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 565.0,
+  "y": 276.0,
+  "width": 237.0,
+  "height": 264.0
+}
+          ]
+        },
+        {
+          "id": "ad37c6ab-6605-4f98-8591-4b3e62a678b5",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_925.png"
+        }
+      ]
+    },
+    {
+      "id": "ce1fe3fe-7d42-453b-b5cd-ab79df854d0c",
+      "sequence_id": "17da35f4-dea1-4b3d-8a35-5097ac789591",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.9030323,
+          6.89210939,
+          -10.8625174
+        ],
+        "rotation": [
+          0.214070961,
+          -0.431750327,
+          0.106265843,
+          0.8697545
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_926.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "ef5afbe9-e641-477e-900e-674c0430540a",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 555.0,
+  "y": 349.0,
+  "width": 176.0,
+  "height": 136.0
+}
+          ]
+        },
+        {
+          "id": "9d2ac0b9-fbec-475b-822d-32fb3d8d0af2",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_926.png"
+        }
+      ]
+    },
+    {
+      "id": "c2761638-fb86-476d-b5bf-17f1a8fc8172",
+      "sequence_id": "00c7c51e-9b11-4cb7-a8ce-bad43fe067ff",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.8484726,
+          6.8841095,
+          -10.8196115
+        ],
+        "rotation": [
+          0.213070914,
+          -0.428877026,
+          0.104844011,
+          0.8715922
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_927.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "aa24b172-9447-4cb6-b13e-dbcb56ac658d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 545.0,
+  "y": 413.0,
+  "width": 151.0,
+  "height": 196.0
+}
+          ]
+        },
+        {
+          "id": "8e21655a-92e9-48d9-948d-85fc1288bae1",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_927.png"
+        }
+      ]
+    },
+    {
+      "id": "53fd914a-07aa-4b57-b619-f326eb308311",
+      "sequence_id": "599b3e72-0bfe-450a-a1c7-6ce8cfd5ca4c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.7939968,
+          6.876109,
+          -10.77665
+        ],
+        "rotation": [
+          0.2120586,
+          -0.425995439,
+          0.103427969,
+          0.8734195
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_928.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f9889421-cd18-4d68-a855-155107073ad7",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 527.0,
+  "y": 267.0,
+  "width": 250.0,
+  "height": 252.0
+}
+          ]
+        },
+        {
+          "id": "0a23a525-50bf-473e-895b-4dc755461059",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_928.png"
+        }
+      ]
+    },
+    {
+      "id": "851d224f-1245-40d1-94b9-db0b30c84a94",
+      "sequence_id": "87b1eb0e-dee1-4880-8976-ea4ff49dccad",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.7395973,
+          6.86810875,
+          -10.7336283
+        ],
+        "rotation": [
+          0.211033925,
+          -0.423106074,
+          0.102017879,
+          0.875236154
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_929.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f555f9c6-cb7f-4cb9-99bf-6a89d5fe86ba",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 591.0,
+  "y": 410.0,
+  "width": 189.0,
+  "height": 198.0
+}
+          ]
+        },
+        {
+          "id": "8267f790-a135-42be-a2a1-1a1b4c170af6",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_929.png"
+        }
+      ]
+    },
+    {
+      "id": "0f6f338e-1cd7-40f9-9c1d-b05bfff56378",
+      "sequence_id": "a37cc2b7-ccaa-4eef-9b8a-598a0aa91faf",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.68527,
+          6.86010838,
+          -10.6905422
+        ],
+        "rotation": [
+          0.209996983,
+          -0.420208484,
+          0.100613751,
+          0.877042234
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_930.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bbee0d9a-dae2-449f-b986-9605f608079f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 540.0,
+  "y": 320.0,
+  "width": 206.0,
+  "height": 163.0
+}
+          ]
+        },
+        {
+          "id": "2e84bff2-9713-453a-a1c2-3ec829848d40",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_930.png"
+        }
+      ]
+    },
+    {
+      "id": "8bbbdfed-ec30-4b46-9d04-72e1eec62250",
+      "sequence_id": "1de4a429-4c62-4059-8057-dd2dc18813ef",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.68527,
+          6.86010838,
+          -10.6905422
+        ],
+        "rotation": [
+          0.209996983,
+          -0.420208484,
+          0.100613751,
+          0.877042234
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_931.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "3dff31a0-c3b6-4a7e-a708-4bbf7ab8c5b3",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 556.0,
+  "y": 438.0,
+  "width": 215.0,
+  "height": 231.0
+}
+          ]
+        },
+        {
+          "id": "8a810607-6484-45c8-9fa4-977abd53a523",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_931.png"
+        }
+      ]
+    },
+    {
+      "id": "057ab216-cc8a-40c6-8960-bdb2757b9eb4",
+      "sequence_id": "6a85779d-4b61-4eea-ad3f-68cbd4e651dd",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.56799,
+          6.852108,
+          -10.5934048
+        ],
+        "rotation": [
+          0.208947837,
+          -0.417302966,
+          0.0992157757,
+          0.878837466
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_932.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a96b0844-96d6-4852-961d-b005bfd7e3f0",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 524.0,
+  "y": 433.0,
+  "width": 155.0,
+  "height": 83.0
+}
+          ]
+        },
+        {
+          "id": "af9ee474-93ee-41b6-92b1-c77cf19860a1",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_932.png"
+        }
+      ]
+    },
+    {
+      "id": "71247187-4418-44f8-888b-6a332bc64d97",
+      "sequence_id": "10e58d85-d4a5-4e7c-9355-771e440f8cff",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.5138149,
+          6.84410763,
+          -10.5501957
+        ],
+        "rotation": [
+          0.207886428,
+          -0.414389431,
+          0.09782396,
+          0.880622
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_933.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "2df64339-5250-4533-8fae-45d79a066864",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 598.0,
+  "y": 358.0,
+  "width": 165.0,
+  "height": 204.0
+}
+          ]
+        },
+        {
+          "id": "f985c997-38a6-406b-9311-24111d38c055",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_933.png"
+        }
+      ]
+    },
+    {
+      "id": "13273d13-2b11-4b06-ac6c-445fc50b901a",
+      "sequence_id": "c91ef31b-d35b-4b96-9f77-8aa512f0125f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.4597168,
+          6.83610725,
+          -10.5069275
+        ],
+        "rotation": [
+          0.2068127,
+          -0.411468357,
+          0.096438475,
+          0.8823956
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_934.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e4c0e9e6-15dd-4372-bc7f-bbc3ed0b04b9",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 468.0,
+  "y": 358.0,
+  "width": 223.0,
+  "height": 253.0
+}
+          ]
+        },
+        {
+          "id": "1ddf03f3-8f7a-4a32-a927-51bdc4022d56",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_934.png"
+        }
+      ]
+    },
+    {
+      "id": "65d2d3ed-3bce-47ba-9bfb-895dd5460c93",
+      "sequence_id": "31c50c80-c0b2-44da-947b-8767f1f67b89",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.4056969,
+          6.82810736,
+          -10.4635983
+        ],
+        "rotation": [
+          0.205727056,
+          -0.408538729,
+          0.0950592756,
+          0.8841585
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_935.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "da65edc6-a5c4-4905-86aa-d01c98529ac0",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 515.0,
+  "y": 343.0,
+  "width": 148.0,
+  "height": 172.0
+}
+          ]
+        },
+        {
+          "id": "1fcf5de3-a5fe-4fd8-8aa4-446102a1f1c6",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_935.png"
+        }
+      ]
+    },
+    {
+      "id": "4299840f-8e0e-49bf-b89a-b6ac1c8c4e29",
+      "sequence_id": "e8daa5da-6874-4c41-ba67-635a8822c36f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.3517437,
+          6.820107,
+          -10.4202023
+        ],
+        "rotation": [
+          0.204628959,
+          -0.40560174,
+          0.09368653,
+          0.885910332
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_936.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f408d937-ec46-45d0-a28e-81cdd90689a3",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 512.0,
+  "y": 302.0,
+  "width": 174.0,
+  "height": 161.0
+}
+          ]
+        },
+        {
+          "id": "1499e860-3db0-4640-abde-8d96ea74867b",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_936.png"
+        }
+      ]
+    },
+    {
+      "id": "d0a955e3-bd21-4629-9fd7-d1c9ca542892",
+      "sequence_id": "5625b0cf-ffdd-4bd6-ad71-773533bd7cf0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.3517437,
+          6.820107,
+          -10.4202023
+        ],
+        "rotation": [
+          0.204628959,
+          -0.40560174,
+          0.09368653,
+          0.885910332
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_937.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "5f23d1f6-5ba3-4bfc-82c8-9d611b4e3192",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 602.0,
+  "y": 307.0,
+  "width": 97.0,
+  "height": 167.0
+}
+          ]
+        },
+        {
+          "id": "fb2a07de-f18a-4999-b76a-993a38ce7ff7",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_937.png"
+        }
+      ]
+    },
+    {
+      "id": "11cf2352-a129-4589-a43b-488e166fdc82",
+      "sequence_id": "fa9e4ca6-536d-4a06-b8c8-da57d5533ea3",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.2348366,
+          6.812106,
+          -10.32275
+        ],
+        "rotation": [
+          0.203518927,
+          -0.402656734,
+          0.09232034,
+          0.8876512
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_938.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "583e24d2-8c88-436a-accb-32aabbb7b16b",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 480.0,
+  "y": 366.0,
+  "width": 185.0,
+  "height": 169.0
+}
+          ]
+        },
+        {
+          "id": "0f6f589c-f766-4f38-a01a-b5b7b3bbdcd6",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_938.png"
+        }
+      ]
+    },
+    {
+      "id": "545afac6-6c33-4434-bc14-632ef2745166",
+      "sequence_id": "7c05a740-e2e0-4bfc-9b70-20b6b085a556",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.180336,
+          6.80410576,
+          -10.2800465
+        ],
+        "rotation": [
+          0.2023968,
+          -0.399704039,
+          0.0909608155,
+          0.8893809
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_939.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "4b60eb84-644c-400c-a79c-36ed24c06376",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 537.0,
+  "y": 215.0,
+  "width": 273.0,
+  "height": 388.0
+}
+          ]
+        },
+        {
+          "id": "e70f4e5d-53ef-49e3-8b87-ad2d3ca4e525",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_939.png"
+        }
+      ]
+    },
+    {
+      "id": "00b343ad-4916-48c2-9523-12a2f934dab8",
+      "sequence_id": "ab535d71-97bb-4ce8-bba1-d42b1e699517",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.1255016,
+          6.796106,
+          -10.2379436
+        ],
+        "rotation": [
+          0.201262563,
+          -0.396743447,
+          0.089607954,
+          0.8910996
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_940.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "55f0d950-191b-4440-bc5a-9d9ddc3286f4",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 477.0,
+  "y": 395.0,
+  "width": 212.0,
+  "height": 211.0
+}
+          ]
+        },
+        {
+          "id": "51f963b6-7cf5-4c63-80d5-5eebb8f30031",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_940.png"
+        }
+      ]
+    },
+    {
+      "id": "24441e28-ec33-4813-b0eb-e9ea234fa9d0",
+      "sequence_id": "42a3010a-0dca-4bf0-9f79-00a9663b9eb4",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          0.99999994
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -23.0574722,
+          6.78810549,
+          -10.2187386
+        ],
+        "rotation": [
+          0.200116515,
+          -0.393774956,
+          0.0882619247,
+          0.892807066
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_941.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "cee79018-39b6-40dc-bfd2-f0866a0bf021",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 536.0,
+  "y": 430.0,
+  "width": 148.0,
+  "height": 134.0
+}
+          ]
+        },
+        {
+          "id": "bc268f33-1edc-4212-9bb2-d750b5db85ec",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_941.png"
+        }
+      ]
+    },
+    {
+      "id": "981a87be-bd74-4d00-9a32-a84a1fca56b8",
+      "sequence_id": "77223a47-d5b0-4e11-8eb9-d423f038abcc",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.9867439,
+          6.78010559,
+          -10.2077055
+        ],
+        "rotation": [
+          0.198958337,
+          -0.390799,
+          0.0869227946,
+          0.8945033
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_942.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e629a15b-b3ef-4ddb-9865-10b2985a6f5c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 406.0,
+  "y": 370.0,
+  "width": 298.0,
+  "height": 274.0
+}
+          ]
+        },
+        {
+          "id": "e8fb1110-1d1c-4030-8fb8-727348dfeee6",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_942.png"
+        }
+      ]
+    },
+    {
+      "id": "8ae15958-365c-4cb7-a563-6022de8780cf",
+      "sequence_id": "6b7051aa-06e3-4f7b-bf29-9235c81e755e",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.9867439,
+          6.78010559,
+          -10.2077055
+        ],
+        "rotation": [
+          0.198958337,
+          -0.390799,
+          0.0869227946,
+          0.8945033
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_943.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e54c0ba7-3799-433a-90e5-93c8e30c6660",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 517.0,
+  "y": 319.0,
+  "width": 201.0,
+  "height": 215.0
+}
+          ]
+        },
+        {
+          "id": "635794b7-c568-4aa8-8630-7bf7721e7653",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_943.png"
+        }
+      ]
+    },
+    {
+      "id": "59c5889e-7cca-4ba6-84c9-18b6ac657698",
+      "sequence_id": "805a530d-300d-4cf7-85b9-1808a3c77648",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.8336277,
+          6.772105,
+          -10.1848316
+        ],
+        "rotation": [
+          0.19778809,
+          -0.387815684,
+          0.0855906457,
+          0.89618814
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_944.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "ee01af94-6cca-4e99-881d-62d74a6fff5b",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 577.0,
+  "y": 431.0,
+  "width": 119.0,
+  "height": 210.0
+}
+          ]
+        },
+        {
+          "id": "411dc649-ad02-499f-8fa2-92143539aaf2",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_944.png"
+        }
+      ]
+    },
+    {
+      "id": "85cd67d1-c1ec-41d6-8712-aad11fe575e0",
+      "sequence_id": "8f519552-ca6f-4166-9ed9-212276f0f23b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.76134,
+          6.76410532,
+          -10.18138
+        ],
+        "rotation": [
+          0.1966061,
+          -0.3848243,
+          0.084265545,
+          0.8978617
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_945.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "742dc882-8369-4d62-833f-be868e6dc0da",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 555.0,
+  "y": 365.0,
+  "width": 123.0,
+  "height": 164.0
+}
+          ]
+        },
+        {
+          "id": "b8323b07-3aa3-4080-891f-e8faa8014ffe",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_945.png"
+        }
+      ]
+    },
+    {
+      "id": "eeb5d69d-7991-40d0-b57c-ecd2b3ae7b35",
+      "sequence_id": "5acfd90e-0433-46e4-8208-a707ddbcb7b4",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.68902,
+          6.75610542,
+          -10.1785393
+        ],
+        "rotation": [
+          0.195412248,
+          -0.381825477,
+          0.08294764,
+          0.8995238
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_946.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "375117cd-be30-455e-aa82-7670415b3b8e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 393.0,
+  "y": 284.0,
+  "width": 374.0,
+  "height": 232.0
+}
+          ]
+        },
+        {
+          "id": "c9bc7bfb-a014-4972-ae6d-61b01bc83b68",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_946.png"
+        }
+      ]
+    },
+    {
+      "id": "9221f20e-6a0e-44a5-880a-a0821a33cfe3",
+      "sequence_id": "dd0b15a4-3525-4289-9071-8b4556f8b1ea",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.6166344,
+          6.748105,
+          -10.1764641
+        ],
+        "rotation": [
+          0.1942064,
+          -0.378819257,
+          0.08163695,
+          0.901174366
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_947.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e10507d5-853a-4196-96c0-d3aa35c90405",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 427.0,
+  "y": 404.0,
+  "width": 346.0,
+  "height": 310.0
+}
+          ]
+        },
+        {
+          "id": "cfd1e5e4-e8f3-478f-86ad-e1ac5b2fef24",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_947.png"
+        }
+      ]
+    },
+    {
+      "id": "19941e23-a2ec-44fe-9c68-9213be33132e",
+      "sequence_id": "3a9560a7-e935-42c7-8ec1-84895e264f37",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.5442276,
+          6.740105,
+          -10.175005
+        ],
+        "rotation": [
+          0.1929889,
+          -0.3758054,
+          0.08033361,
+          0.902813435
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_948.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "25c5156c-9874-4862-8134-1bbd11e4bbbb",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 497.0,
+  "y": 418.0,
+  "width": 232.0,
+  "height": 188.0
+}
+          ]
+        },
+        {
+          "id": "d4bf824c-be35-4c33-92a6-c09f78b93ce3",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_948.png"
+        }
+      ]
+    },
+    {
+      "id": "e3594b38-ad51-430e-b895-33738cf7eae4",
+      "sequence_id": "b64c0296-553a-45d8-9980-5fcab44c3678",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.5442276,
+          6.740105,
+          -10.175005
+        ],
+        "rotation": [
+          0.1929889,
+          -0.3758054,
+          0.08033361,
+          0.902813435
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_949.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "4c7f8f43-0446-45b7-8f12-e69fa34bcdfc",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 566.0,
+  "y": 357.0,
+  "width": 113.0,
+  "height": 133.0
+}
+          ]
+        },
+        {
+          "id": "fae2514c-f354-45b0-bb07-8b00c45b1f75",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_949.png"
+        }
+      ]
+    },
+    {
+      "id": "b58d2fb8-7cb9-4c68-9d3d-bdf93336a795",
+      "sequence_id": "39c99a8b-ff37-4cb0-9614-f0bf68980253",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.3895149,
+          6.73210526,
+          -10.1632624
+        ],
+        "rotation": [
+          0.19175972,
+          -0.37278378,
+          0.0790376738,
+          0.904441
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_950.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "619613c8-cc65-40a6-87ca-0c20b825de16",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 528.0,
+  "y": 260.0,
+  "width": 188.0,
+  "height": 247.0
+}
+          ]
+        },
+        {
+          "id": "8bf85ca1-88cf-4f88-8b1c-9f1e159033e8",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_950.png"
+        }
+      ]
+    },
+    {
+      "id": "469e8b5e-1f8e-487b-9565-f18cb71767ce",
+      "sequence_id": "f91378f6-1d18-469a-a68a-735a3d548d75",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.3171139,
+          6.724105,
+          -10.16264
+        ],
+        "rotation": [
+          0.190518737,
+          -0.369755179,
+          0.07774931,
+          0.9060567
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_951.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a4265715-5bfe-4e4e-8856-87f1d90a7da9",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 511.0,
+  "y": 366.0,
+  "width": 148.0,
+  "height": 118.0
+}
+          ]
+        },
+        {
+          "id": "82bdbe17-670d-431a-bce0-b4a78de7d52a",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_951.png"
+        }
+      ]
+    },
+    {
+      "id": "43f9656a-7d54-4f7d-8597-ca68de69d0de",
+      "sequence_id": "9c9e8eaa-a3fc-4d54-84cf-510d8fd1c170",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.2446938,
+          6.71610451,
+          -10.1626835
+        ],
+        "rotation": [
+          0.189266056,
+          -0.366719067,
+          0.07646851,
+          0.9076608
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_952.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "2ce9d3be-b8e2-47b2-98b9-9650d2357a1e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 508.0,
+  "y": 454.0,
+  "width": 102.0,
+  "height": 85.0
+}
+          ]
+        },
+        {
+          "id": "c471b160-b8d0-448d-9ad0-14e3189b185e",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_952.png"
+        }
+      ]
+    },
+    {
+      "id": "2e12d6b3-4be1-4517-b06d-b46d7354e10b",
+      "sequence_id": "f1ffd89c-ee04-4f1d-ad8f-da39f7402515",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.1723347,
+          6.70810461,
+          -10.162674
+        ],
+        "rotation": [
+          0.188001871,
+          -0.3636754,
+          0.0751954,
+          0.9092531
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_953.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "47d77d2f-39ad-4b66-b618-8fe449e15725",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 512.0,
+  "y": 323.0,
+  "width": 70.0,
+  "height": 177.0
+}
+          ]
+        },
+        {
+          "id": "1bc75c6c-a9b9-4dc8-831d-53cced973ec3",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_953.png"
+        }
+      ]
+    },
+    {
+      "id": "7f5a1a36-bbcd-4f2d-ba7d-62420a26f1b6",
+      "sequence_id": "6a674864-7824-4982-a59a-2f49438b80fe",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.1723347,
+          6.70810461,
+          -10.162674
+        ],
+        "rotation": [
+          0.188001871,
+          -0.3636754,
+          0.0751954,
+          0.9092531
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_954.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d4731094-696e-480c-83ec-15313ac3a3ee",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 495.0,
+  "y": 435.0,
+  "width": 81.0,
+  "height": 235.0
+}
+          ]
+        },
+        {
+          "id": "f5dc2f3e-c6c0-415c-8ca9-91193828ad89",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_954.png"
+        }
+      ]
+    },
+    {
+      "id": "1b868751-36c5-4abf-b1e3-6e2303a123a1",
+      "sequence_id": "131fb3a3-18f0-4c84-84cc-54ce869bc9be",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -22.0176125,
+          6.70010471,
+          -10.1529207
+        ],
+        "rotation": [
+          0.186725989,
+          -0.360624939,
+          0.07393015,
+          0.9108334
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_955.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e1e71951-3cd6-4f86-8924-a4f635b588cd",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 710.0,
+  "y": 370.0,
+  "width": 24.0,
+  "height": 84.0
+}
+          ]
+        },
+        {
+          "id": "1b2e526d-97ed-4ac2-9a28-a3a46137eb3b",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_955.png"
+        }
+      ]
+    },
+    {
+      "id": "2683fc81-5fe3-491d-b2a4-b9cd5d15672e",
+      "sequence_id": "690201dc-9a93-4be1-86e5-49a7410e3c3c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.945385,
+          6.692105,
+          -10.15277
+        ],
+        "rotation": [
+          0.185438722,
+          -0.357566774,
+          0.07267273,
+          0.912401855
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_956.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "af936741-af25-4be3-aaff-839bf0ace23c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 612.0,
+  "y": 525.0,
+  "width": 149.0,
+  "height": 26.0
+}
+          ]
+        },
+        {
+          "id": "6ee0bfc3-1736-420d-87db-c780e1dc76e4",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_956.png"
+        }
+      ]
+    },
+    {
+      "id": "45beecde-9edb-41ab-a0f2-280b540dca28",
+      "sequence_id": "b65b7f6e-d30b-49f2-9e35-ffc33054b32c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.8732319,
+          6.684104,
+          -10.1525478
+        ],
+        "rotation": [
+          0.184139952,
+          -0.354501367,
+          0.0714232251,
+          0.91395843
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_957.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "4acb184d-eeeb-491a-8198-8bf711842d66",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 586.0,
+  "y": 346.0,
+  "width": 107.0,
+  "height": 266.0
+}
+          ]
+        },
+        {
+          "id": "ddd07379-1453-495a-baff-cc3de5429521",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_957.png"
+        }
+      ]
+    },
+    {
+      "id": "bf3d8488-3e5b-43bc-87e5-b46b16b485b0",
+      "sequence_id": "005abb46-3d12-4ceb-bcd7-645231163cdd",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.8011436,
+          6.676104,
+          -10.1522541
+        ],
+        "rotation": [
+          0.182829708,
+          -0.351428837,
+          0.07018179,
+          0.9155029
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_958.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "b04ffad7-cb9a-447f-b5e2-f202f79e3b1d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 572.0,
+  "y": 307.0,
+  "width": 271.0,
+  "height": 260.0
+}
+          ]
+        },
+        {
+          "id": "78792fe5-7e7c-45f0-bbc5-91e4dc7eeb26",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_958.png"
+        }
+      ]
+    },
+    {
+      "id": "2d81a461-bd21-42bd-a5c3-96682fd22aab",
+      "sequence_id": "9371fd8a-f938-4570-9221-e428d0cb298f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.7291126,
+          6.668104,
+          -10.151886
+        ],
+        "rotation": [
+          0.181508169,
+          -0.3483494,
+          0.06894856,
+          0.9170352
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_959.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "c556449e-5360-4df2-9ee8-3f961e44a644",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 543.0,
+  "y": 442.0,
+  "width": 113.0,
+  "height": 131.0
+}
+          ]
+        },
+        {
+          "id": "36edf1e7-5df5-4713-9b6f-2d573c98112c",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_959.png"
+        }
+      ]
+    },
+    {
+      "id": "da70656d-d76e-48d3-a596-a8ffaaac15d6",
+      "sequence_id": "c6fa7db8-a1b9-4a61-b535-017ed87bb05a",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.7291126,
+          6.668104,
+          -10.151886
+        ],
+        "rotation": [
+          0.181508169,
+          -0.3483494,
+          0.06894856,
+          0.9170352
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_960.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "ce38325b-ea8e-4115-a899-f9ba79c3136e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 585.0,
+  "y": 373.0,
+  "width": 180.0,
+  "height": 111.0
+}
+          ]
+        },
+        {
+          "id": "ee52e743-7c49-42a8-aec4-0a351064dde0",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_960.png"
+        }
+      ]
+    },
+    {
+      "id": "c29cbbad-dc42-4ce0-ade5-dbdc52f5ce8e",
+      "sequence_id": "7e15d325-a0c2-4534-84ca-f88284de6388",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.57472,
+          6.66010427,
+          -10.1417732
+        ],
+        "rotation": [
+          0.180175275,
+          -0.3452627,
+          0.06772351,
+          0.918555439
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_961.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "aa9fbb44-7fb9-44eb-94eb-e9aebaad1502",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 521.0,
+  "y": 327.0,
+  "width": 187.0,
+  "height": 200.0
+}
+          ]
+        },
+        {
+          "id": "d69a9b25-6018-4ac3-b6ef-2352fc34ed5b",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_961.png"
+        }
+      ]
+    },
+    {
+      "id": "acfcf082-e3c0-4734-bfc2-db3857af7810",
+      "sequence_id": "34a59696-f196-4b5e-84d5-487243135a42",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.5028229,
+          6.65210438,
+          -10.141243
+        ],
+        "rotation": [
+          0.178831175,
+          -0.342168927,
+          0.06650679,
+          0.920063436
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_962.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "55b2b45d-7f13-4f52-830e-01f6565807f0",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 527.0,
+  "y": 397.0,
+  "width": 303.0,
+  "height": 247.0
+}
+          ]
+        },
+        {
+          "id": "38aaa18f-8225-4706-adcc-70fdd9abd4f7",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_962.png"
+        }
+      ]
+    },
+    {
+      "id": "02a1a33c-3e10-4b66-90cb-7e2f9b4c06b8",
+      "sequence_id": "0431a329-2144-409d-91f9-5f3de9ce0250",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.43107,
+          6.644104,
+          -10.1400013
+        ],
+        "rotation": [
+          0.177475691,
+          -0.3390682,
+          0.0652984157,
+          0.921559155
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_963.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "3adab4b5-a1da-4e6a-b210-6aa8780eccdd",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 548.0,
+  "y": 333.0,
+  "width": 183.0,
+  "height": 159.0
+}
+          ]
+        },
+        {
+          "id": "9cd554b2-2c0d-415a-9c9b-9957df6e66bc",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_963.png"
+        }
+      ]
+    },
+    {
+      "id": "fb7e0bda-6c21-4b98-b98d-faf69797a1cb",
+      "sequence_id": "7660d5f8-6f5e-45ee-9c60-ff02c9a0d5ce",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.35938,
+          6.636104,
+          -10.1386862
+        ],
+        "rotation": [
+          0.176109135,
+          -0.335960537,
+          0.06409859,
+          0.923042536
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_964.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "dfdb49d9-5bab-4a53-aee9-00b0d7193c15",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 524.0,
+  "y": 398.0,
+  "width": 246.0,
+  "height": 202.0
+}
+          ]
+        },
+        {
+          "id": "d883016c-4f81-4a74-b6a1-457d56e5af53",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_964.png"
+        }
+      ]
+    },
+    {
+      "id": "11cf4882-f591-47a9-849d-0f58d81cf0ae",
+      "sequence_id": "806fe6fd-b2c4-43a7-b53b-fa5a9abaad42",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.2877884,
+          6.628104,
+          -10.1370125
+        ],
+        "rotation": [
+          0.1747316,
+          -0.3328456,
+          0.062907286,
+          0.924513638
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_965.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "599b2ca7-e0f8-4027-98b2-f9f9ba3e0327",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 564.0,
+  "y": 259.0,
+  "width": 223.0,
+  "height": 318.0
+}
+          ]
+        },
+        {
+          "id": "a46bfa9a-3147-4f36-a462-bc9b683d710b",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_965.png"
+        }
+      ]
+    },
+    {
+      "id": "6d7a6993-bbab-4906-a3b4-7cfe3e4c8cb4",
+      "sequence_id": "abd85efe-2343-43d0-ae8b-3787f29df44b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.2877884,
+          6.628104,
+          -10.1370125
+        ],
+        "rotation": [
+          0.1747316,
+          -0.3328456,
+          0.062907286,
+          0.924513638
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_966.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "9d6183dd-58a5-48b0-aadf-5090c0b08a48",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 565.0,
+  "y": 364.0,
+  "width": 278.0,
+  "height": 309.0
+}
+          ]
+        },
+        {
+          "id": "53451ad4-c522-47d0-b8cb-7a7573cc4df3",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_966.png"
+        }
+      ]
+    },
+    {
+      "id": "0cdde82b-fe1e-46fa-8915-9b8080605622",
+      "sequence_id": "b09f365e-3157-4867-bb58-8421874ae83a",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.13421,
+          6.620104,
+          -10.1226425
+        ],
+        "rotation": [
+          0.173342809,
+          -0.3297243,
+          0.06172468,
+          0.9259721
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_967.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "0e70b9ec-63c8-4748-8674-1c7640c7b6bb",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 484.0,
+  "y": 420.0,
+  "width": 280.0,
+  "height": 297.0
+}
+          ]
+        },
+        {
+          "id": "ea0ce0cb-8c0f-47aa-8350-adef05c57c37",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_967.png"
+        }
+      ]
+    },
+    {
+      "id": "841937bb-ebc5-44cb-a17a-08b4303ce8db",
+      "sequence_id": "64405c13-fa10-4062-b0fe-dfd9cf5c60b8",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -21.0632687,
+          6.61210346,
+          -10.117672
+        ],
+        "rotation": [
+          0.171943158,
+          -0.3265959,
+          0.0605508238,
+          0.9274181
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_968.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "96ed87dd-7418-4083-bc37-a5092709e51c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 605.0,
+  "y": 279.0,
+  "width": 223.0,
+  "height": 268.0
+}
+          ]
+        },
+        {
+          "id": "54cb6e38-002d-4290-86c4-fa8412c746d7",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_968.png"
+        }
+      ]
+    },
+    {
+      "id": "0f6e8035-7b09-4e77-b620-779c3e7879f2",
+      "sequence_id": "ab9d78a3-4bd7-4854-803d-874db1fefe64",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.9937458,
+          6.60410357,
+          -10.1059122
+        ],
+        "rotation": [
+          0.1705326,
+          -0.323460817,
+          0.05938582,
+          0.9288515
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_969.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "3890fe71-7fb4-4de6-b3b4-38343fbbfb0d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 470.0,
+  "y": 400.0,
+  "width": 197.0,
+  "height": 103.0
+}
+          ]
+        },
+        {
+          "id": "0c5fd93d-1e28-44cf-b6e9-1674e71e96d0",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_969.png"
+        }
+      ]
+    },
+    {
+      "id": "454a662a-5bb4-4e29-937a-2adbf9d5a31c",
+      "sequence_id": "2a60ed03-e847-4641-b1d8-c2d5ce41ce99",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.930212,
+          6.59610367,
+          -10.0782595
+        ],
+        "rotation": [
+          0.169111237,
+          -0.320318878,
+          0.0582297444,
+          0.9302723
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_970.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "406fbf75-6c36-4e59-b1a7-ee6bf81fadf1",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 493.0,
+  "y": 394.0,
+  "width": 276.0,
+  "height": 159.0
+}
+          ]
+        },
+        {
+          "id": "33580a00-6a51-43dd-b048-34ae9ba058e6",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_970.png"
+        }
+      ]
+    },
+    {
+      "id": "1f00482a-ae7e-4637-80bb-9c93f5667ad5",
+      "sequence_id": "b75e87b5-5d1f-4211-b504-a93fed9cd5b2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.868845,
+          6.58810329,
+          -10.04624
+        ],
+        "rotation": [
+          0.167678937,
+          -0.317170441,
+          0.0570826679,
+          0.9316804
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_971.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "879c350c-b1e7-462d-ac32-d2ef72c67000",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 497.0,
+  "y": 403.0,
+  "width": 193.0,
+  "height": 125.0
+}
+          ]
+        },
+        {
+          "id": "b562cbc6-25f3-43ec-bd62-faf1bf70007d",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_971.png"
+        }
+      ]
+    },
+    {
+      "id": "9d67a25c-f44e-4ec8-b15e-215767b9f8f6",
+      "sequence_id": "5d361d3b-9869-4dbb-9e4d-af7270e560b4",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.868845,
+          6.58810329,
+          -10.04624
+        ],
+        "rotation": [
+          0.167678937,
+          -0.317170441,
+          0.0570826679,
+          0.9316804
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_972.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "8d3eae9c-b08e-4b61-bd8a-778e7c04593f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 465.0,
+  "y": 332.0,
+  "width": 211.0,
+  "height": 234.0
+}
+          ]
+        },
+        {
+          "id": "0cd5aca1-e634-432c-a50b-5c44ea190851",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_972.png"
+        }
+      ]
+    },
+    {
+      "id": "291fcb68-84f7-4c92-8c36-57ddd4f7b9a1",
+      "sequence_id": "4d563413-f243-43f7-a051-b93b0fc5f6c5",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.736887,
+          6.580103,
+          -9.970516
+        ],
+        "rotation": [
+          0.166236013,
+          -0.314014971,
+          0.0559446551,
+          0.9330758
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_973.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "9a650b65-142b-4ae9-b299-4364b0e02445",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 553.0,
+  "y": 385.0,
+  "width": 222.0,
+  "height": 201.0
+}
+          ]
+        },
+        {
+          "id": "b3911c05-19c6-45aa-8609-5f9ee4236bc0",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_973.png"
+        }
+      ]
+    },
+    {
+      "id": "5b4a47ab-d0f2-44de-9e29-7af69542dee5",
+      "sequence_id": "92b4e1b3-bdfa-4f83-a45f-6d14d0284bb6",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.6772614,
+          6.572103,
+          -9.935563
+        ],
+        "rotation": [
+          0.16478242,
+          -0.310853362,
+          0.0548158959,
+          0.934458256
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_974.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "5ca14eb4-0e65-4673-b7cf-0f79b1996422",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 542.0,
+  "y": 325.0,
+  "width": 132.0,
+  "height": 188.0
+}
+          ]
+        },
+        {
+          "id": "939238a1-4da3-42b9-a1f5-07810397fb8f",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_974.png"
+        }
+      ]
+    },
+    {
+      "id": "b0cb176c-d8bf-4e8f-a3b8-ba098b5911e7",
+      "sequence_id": "44e1f50b-67fc-4367-a892-6da349adeaf9",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.61781,
+          6.564103,
+          -9.900352
+        ],
+        "rotation": [
+          0.163318232,
+          -0.307685018,
+          0.0536963828,
+          0.935827851
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_975.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "9168b52d-443a-490b-a13d-8c497f080a96",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 578.0,
+  "y": 408.0,
+  "width": 90.0,
+  "height": 174.0
+}
+          ]
+        },
+        {
+          "id": "3f89ef77-0b35-4c2c-a6e5-ac35031aa1c2",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_975.png"
+        }
+      ]
+    },
+    {
+      "id": "05737cf6-6d70-4b11-97cd-6466428e7700",
+      "sequence_id": "d6f83746-a480-4659-ae28-a08ce094126f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.5587082,
+          6.55610275,
+          -9.864574
+        ],
+        "rotation": [
+          0.1618434,
+          -0.304510325,
+          0.05258621,
+          0.9371846
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_976.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "6c21ad71-4f9f-442b-9a10-e10517dde22f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 475.0,
+  "y": 403.0,
+  "width": 249.0,
+  "height": 209.0
+}
+          ]
+        },
+        {
+          "id": "3d043377-635c-4398-bd29-a72d168f3057",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_976.png"
+        }
+      ]
+    },
+    {
+      "id": "da13d63f-8c97-4977-ac6e-6aeb750f738e",
+      "sequence_id": "40648b2c-fa99-40a5-8f1e-d0bf78f970e8",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.499794,
+          6.548103,
+          -9.828529
+        ],
+        "rotation": [
+          0.16035825,
+          -0.3013287,
+          0.05148543,
+          0.9385284
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_977.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "8c834c54-543b-4134-890a-41bff3f499e0",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 466.0,
+  "y": 237.0,
+  "width": 265.0,
+  "height": 285.0
+}
+          ]
+        },
+        {
+          "id": "c1a02257-12cd-44a1-8b45-fd7db76153a1",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_977.png"
+        }
+      ]
+    },
+    {
+      "id": "c70894ef-fa55-4b13-8c4b-735edf59b67f",
+      "sequence_id": "a978778c-2f06-4ff1-842d-526756d08a53",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.499794,
+          6.548103,
+          -9.828529
+        ],
+        "rotation": [
+          0.16035825,
+          -0.3013287,
+          0.05148543,
+          0.9385284
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_978.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "dbe1b0ea-ffa5-4a06-bd2e-e040f8b0c3b5",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 505.0,
+  "y": 382.0,
+  "width": 222.0,
+  "height": 153.0
+}
+          ]
+        },
+        {
+          "id": "4bc46c5e-cb0d-4fec-b624-09b4af0c8605",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_978.png"
+        }
+      ]
+    },
+    {
+      "id": "1b4101a9-7949-4703-9a1d-e8e4b0c9524c",
+      "sequence_id": "53d4552a-f957-4597-bd58-74f48959b2e0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.37116,
+          6.540103,
+          -9.747442
+        ],
+        "rotation": [
+          0.15886271,
+          -0.298141122,
+          0.05039426,
+          0.939859033
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_979.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "ae76de40-c7fd-4d63-a721-922943218e15",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 553.0,
+  "y": 268.0,
+  "width": 264.0,
+  "height": 237.0
+}
+          ]
+        },
+        {
+          "id": "c1649db7-c5d8-42f5-805b-97eb247eac0e",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_979.png"
+        }
+      ]
+    },
+    {
+      "id": "7e7db9d2-a80c-48d4-afd9-3be86ac1cef3",
+      "sequence_id": "6b068a4d-c532-4ff7-ae0d-db9db809d44f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.3127213,
+          6.532103,
+          -9.710663
+        ],
+        "rotation": [
+          0.157356754,
+          -0.2949474,
+          0.04931272,
+          0.9411765
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_980.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "14d7c4e9-f8e0-44d2-b771-2cd3bae00119",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 575.0,
+  "y": 400.0,
+  "width": 159.0,
+  "height": 134.0
+}
+          ]
+        },
+        {
+          "id": "3eabcd2b-a1f6-47b3-aa2c-05e73d2b1685",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_980.png"
+        }
+      ]
+    },
+    {
+      "id": "8d471b11-d442-4687-ba38-8ae6c5ba76ed",
+      "sequence_id": "5bee2d5e-f5df-4264-b42a-6e50db106d4b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.2546043,
+          6.524103,
+          -9.673392
+        ],
+        "rotation": [
+          0.15584065,
+          -0.291746944,
+          0.0482408069,
+          0.9424809
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_981.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "5b165c97-1f35-4bed-9d7b-cd45d9077d7a",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 519.0,
+  "y": 440.0,
+  "width": 172.0,
+  "height": 121.0
+}
+          ]
+        },
+        {
+          "id": "53dd2605-01ec-41cf-9e63-a7901d1506c4",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_981.png"
+        }
+      ]
+    },
+    {
+      "id": "fb934d12-23bb-499b-b2f3-864ae2acbef6",
+      "sequence_id": "b7a5c7fd-0565-40b8-b42d-e104338d02a8",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.196537,
+          6.516103,
+          -9.63604
+        ],
+        "rotation": [
+          0.15431428,
+          -0.2885402,
+          0.04717863,
+          0.943772137
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_982.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d6775255-8589-4273-8d98-cea6ffe6884c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 556.0,
+  "y": 361.0,
+  "width": 163.0,
+  "height": 120.0
+}
+          ]
+        },
+        {
+          "id": "9b59f2dc-f2e8-459d-80ca-0e1e996a7f1c",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_982.png"
+        }
+      ]
+    },
+    {
+      "id": "609908a9-2ab3-42ac-939b-6c5c01eb7db3",
+      "sequence_id": "9753edb6-0e91-4055-acdc-1158ecc44f1c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.1385269,
+          6.508103,
+          -9.598608
+        ],
+        "rotation": [
+          0.15277788,
+          -0.285327733,
+          0.0461264178,
+          0.945049942
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_983.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bfc4b3b4-2c06-4f86-88ea-664c42acb12e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 516.0,
+  "y": 381.0,
+  "width": 269.0,
+  "height": 215.0
+}
+          ]
+        },
+        {
+          "id": "3f7c1196-5d4c-42c5-a611-49c3764b2ccd",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_983.png"
+        }
+      ]
+    },
+    {
+      "id": "0f074ab6-dd09-42b9-8ef0-c91885001890",
+      "sequence_id": "8aaa6d16-216d-471f-a511-a0b9d756fcda",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.1385269,
+          6.508103,
+          -9.598608
+        ],
+        "rotation": [
+          0.15277788,
+          -0.285327733,
+          0.0461264178,
+          0.945049942
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_984.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "893aaffe-1526-4908-b92c-23b2d54dd326",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 577.0,
+  "y": 359.0,
+  "width": 105.0,
+  "height": 128.0
+}
+          ]
+        },
+        {
+          "id": "c54051b4-8a78-46a4-81ac-34f486d39f8e",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_984.png"
+        }
+      ]
+    },
+    {
+      "id": "9ac37056-d58a-4b60-81e4-b1d96d13563a",
+      "sequence_id": "556ddc43-7f7b-41e7-abcd-0ab9f00d1be2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -20.0109558,
+          6.500103,
+          -9.515894
+        ],
+        "rotation": [
+          0.151231438,
+          -0.282109052,
+          0.0450841263,
+          0.946314454
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_985.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "febe3de2-3b0c-4383-ad58-1c0e9d59126d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 573.0,
+  "y": 364.0,
+  "width": 83.0,
+  "height": 105.0
+}
+          ]
+        },
+        {
+          "id": "760ae0d9-22e2-4926-91ad-d4fd9b2a4ed8",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_985.png"
+        }
+      ]
+    },
+    {
+      "id": "01872f22-3e6b-4043-ada4-7d16417f430e",
+      "sequence_id": "23f75cfc-c4ff-4300-8f08-81e0c8936189",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.9517727,
+          6.49210262,
+          -9.480364
+        ],
+        "rotation": [
+          0.149675012,
+          -0.278883934,
+          0.04405179,
+          0.9475656
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_986.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "78037190-8d0e-41b4-9a3b-9f6d6112451c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 495.0,
+  "y": 302.0,
+  "width": 221.0,
+  "height": 210.0
+}
+          ]
+        },
+        {
+          "id": "5d02125a-9f89-49b7-affc-b36d5841f144",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_986.png"
+        }
+      ]
+    },
+    {
+      "id": "1be0487b-8fe7-4947-b4e5-9bf200f2b2b5",
+      "sequence_id": "bdca27a4-951f-4854-9bf3-7c8cb2222f4d",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.88401,
+          6.48410273,
+          -9.46953
+        ],
+        "rotation": [
+          0.1481088,
+          -0.2756531,
+          0.043029625,
+          0.948803246
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_987.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f74ae22e-6f0c-4731-98d8-0656a1ea594f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 582.0,
+  "y": 301.0,
+  "width": 183.0,
+  "height": 190.0
+}
+          ]
+        },
+        {
+          "id": "f37d0409-9eef-4b0b-913b-ae7ca686b9ad",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_987.png"
+        }
+      ]
+    },
+    {
+      "id": "5ea3f0a4-6596-4bb3-b0bb-cba32cb2e865",
+      "sequence_id": "50f93549-e772-4757-808f-5684a93c6754",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.8128433,
+          6.476103,
+          -9.475294
+        ],
+        "rotation": [
+          0.146532789,
+          -0.272416532,
+          0.0420176871,
+          0.950027347
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_988.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a60f0e63-00db-4854-ad68-f91d2214b399",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 498.0,
+  "y": 298.0,
+  "width": 154.0,
+  "height": 239.0
+}
+          ]
+        },
+        {
+          "id": "0e8a26ee-3bbd-45aa-972c-559a22b6cac0",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_988.png"
+        }
+      ]
+    },
+    {
+      "id": "4ce9642e-51da-4474-b36a-953a2e621dfa",
+      "sequence_id": "90d6f85b-bbdc-4e09-93ad-3a6a26bcf203",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.7417145,
+          6.468103,
+          -9.482743
+        ],
+        "rotation": [
+          0.144947082,
+          -0.269173443,
+          0.04101592,
+          0.951238036
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_989.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "5d0eeddf-48d3-4200-9dc2-4d1b54863e99",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 507.0,
+  "y": 429.0,
+  "width": 287.0,
+  "height": 183.0
+}
+          ]
+        },
+        {
+          "id": "4fa812a3-3252-4ba3-814c-4c37e0828001",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_989.png"
+        }
+      ]
+    },
+    {
+      "id": "8e176d89-326a-41f3-b96e-ad3fa8e14f3f",
+      "sequence_id": "b8781e37-277b-42d5-8e48-5797ebb1767d",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.7417145,
+          6.468103,
+          -9.482743
+        ],
+        "rotation": [
+          0.144947082,
+          -0.269173443,
+          0.04101592,
+          0.951238036
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_990.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f1fdcae4-a97f-4ded-aa95-b9e559995b7a",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 523.0,
+  "y": 387.0,
+  "width": 142.0,
+  "height": 185.0
+}
+          ]
+        },
+        {
+          "id": "a8e635eb-6380-4ce1-a294-46a23c4dca2a",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_990.png"
+        }
+      ]
+    },
+    {
+      "id": "136a20e1-16a9-4de5-8f67-da5c925aa514",
+      "sequence_id": "0bcf097a-d2fb-4ecb-8a4d-ddf1007b03bb",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.58763,
+          6.460103,
+          -9.489946
+        ],
+        "rotation": [
+          0.143351778,
+          -0.26592505,
+          0.0400246,
+          0.9524349
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_991.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "1be2cc6c-2844-44f7-90a2-b0a5a8924f73",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 560.0,
+  "y": 436.0,
+  "width": 91.0,
+  "height": 121.0
+}
+          ]
+        },
+        {
+          "id": "689f34c2-0db2-4f8a-a818-ba0153a09572",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_991.png"
+        }
+      ]
+    },
+    {
+      "id": "6b1efff6-be37-4532-85e0-7c3ce859ec1b",
+      "sequence_id": "d54e8a51-abd9-4c35-982b-5c7a37f4217c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.5166225,
+          6.45210266,
+          -9.49537849
+        ],
+        "rotation": [
+          0.141746834,
+          -0.262670547,
+          0.039043624,
+          0.9536182
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_992.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "2a5d0111-cbe5-41c1-8d35-dc172e351c2a",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 553.0,
+  "y": 393.0,
+  "width": 161.0,
+  "height": 132.0
+}
+          ]
+        },
+        {
+          "id": "9914f6a9-c5f4-4287-ad4d-bb47c4236229",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_992.png"
+        }
+      ]
+    },
+    {
+      "id": "9cbd46cb-75ec-4005-9e4d-81accb9273a3",
+      "sequence_id": "1d5d340c-3d38-4353-908e-8bf58b76eba0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.4456673,
+          6.444103,
+          -9.500267
+        ],
+        "rotation": [
+          0.140132561,
+          -0.259410441,
+          0.0380732231,
+          0.954787731
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_993.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f3581f44-5c5e-4f80-b868-ccbfefe277e9",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 525.0,
+  "y": 434.0,
+  "width": 164.0,
+  "height": 124.0
+}
+          ]
+        },
+        {
+          "id": "6adc5510-43fd-4bc3-80b1-67614d179bd0",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_993.png"
+        }
+      ]
+    },
+    {
+      "id": "f2c2f1e9-c148-4d2b-8496-b5f3d43c6f2b",
+      "sequence_id": "be29bd67-2373-4057-97bb-de3a704e71c4",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.3749123,
+          6.436103,
+          -9.501967
+        ],
+        "rotation": [
+          0.138508931,
+          -0.256144583,
+          0.0371133946,
+          0.955943465
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_994.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "c910422f-a9f8-4624-b853-83a2e1500e38",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 459.0,
+  "y": 382.0,
+  "width": 269.0,
+  "height": 309.0
+}
+          ]
+        },
+        {
+          "id": "c0bdf022-fee9-4eb4-8b58-b843738ce540",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_994.png"
+        }
+      ]
+    },
+    {
+      "id": "2a3f6fe1-efd6-4374-b750-7feddf7122ed",
+      "sequence_id": "51dfa2c9-76c0-41de-9026-bf7be843fbea",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.30422,
+          6.42810249,
+          -9.50331
+        ],
+        "rotation": [
+          0.136875823,
+          -0.252873242,
+          0.03616421,
+          0.9570853
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_995.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "7b26b082-5847-4582-8e14-1e3645df2875",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 472.0,
+  "y": 248.0,
+  "width": 255.0,
+  "height": 262.0
+}
+          ]
+        },
+        {
+          "id": "8020c508-6a5b-481a-b614-a0064b0fe15c",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_995.png"
+        }
+      ]
+    },
+    {
+      "id": "05201f81-9f3e-4bfa-bcd1-e9e14d09bf09",
+      "sequence_id": "fa342b7c-232d-488a-bd2a-31b618463e69",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.30422,
+          6.42810249,
+          -9.50331
+        ],
+        "rotation": [
+          0.136875823,
+          -0.252873242,
+          0.03616421,
+          0.9570853
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_996.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "fb41d979-b350-459c-b81c-0798221adc55",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 561.0,
+  "y": 262.0,
+  "width": 313.0,
+  "height": 317.0
+}
+          ]
+        },
+        {
+          "id": "d08c94b4-ff4e-4c79-a19f-f1e3a701d9f5",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_996.png"
+        }
+      ]
+    },
+    {
+      "id": "914a89ed-8bb8-4354-badf-378460d12c49",
+      "sequence_id": "9ecd2a5b-997e-43ae-ae6d-85dedf39c4ed",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.15166,
+          6.4201026,
+          -9.489659
+        ],
+        "rotation": [
+          0.13523379,
+          -0.249596208,
+          0.0352258049,
+          0.9582133
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_997.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "862dc8c4-ab1f-4f86-847d-ad148534ecf3",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 601.0,
+  "y": 419.0,
+  "width": 55.0,
+  "height": 106.0
+}
+          ]
+        },
+        {
+          "id": "e51f87ce-3d52-40ea-9377-0e79e79a51ae",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_997.png"
+        }
+      ]
+    },
+    {
+      "id": "449f10cd-fd91-4f74-9d39-b1a6e9d7c2ac",
+      "sequence_id": "d5a7b0ca-c949-4e0e-9975-e4be638d54e2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.0825138,
+          6.4121027,
+          -9.480116
+        ],
+        "rotation": [
+          0.1335826,
+          -0.246313527,
+          0.0342982039,
+          0.95932734
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_998.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d8242e39-8d1d-4935-8e33-b8a797460465",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "040f2f07-ba8e-4bc6-a4a5-1bb6cca34309",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_998.png"
+        }
+      ]
+    },
+    {
+      "id": "c559f4cd-bfc5-4f0e-9d59-49daa47ac2b7",
+      "sequence_id": "23ab4e65-f3c6-43e3-9fbd-d4e929051ad0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -19.01349,
+          6.404103,
+          -9.469984
+        ],
+        "rotation": [
+          0.131922364,
+          -0.243025646,
+          0.03338151,
+          0.9604274
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_999.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "0418ffaa-a924-4637-a2d1-eb6eace1c411",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 591.0,
+  "y": 395.0,
+  "width": 185.0,
+  "height": 183.0
+}
+          ]
+        },
+        {
+          "id": "05e697dd-7e47-48a4-9914-bd2d6c8fb20f",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_999.png"
+        }
+      ]
+    },
+    {
+      "id": "ad372805-4b19-47f8-a17a-225820d60185",
+      "sequence_id": "df03c109-77cd-4d9f-a9a0-f2a72459ca92",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -18.94734,
+          6.39654827,
+          -9.449738
+        ],
+        "rotation": [
+          0.130253166,
+          -0.239732668,
+          0.0324758254,
+          0.9615133
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_1000.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "6c7aa46b-044b-4b4e-b153-f1522feac089",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 580.0,
+  "y": 438.0,
+  "width": 88.0,
+  "height": 139.0
+}
+          ]
+        },
+        {
+          "id": "08989eb4-86d9-4dcc-9c03-7bf42a960d2d",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_1000.png"
+        }
+      ]
+    },
+    {
+      "id": "cb1de5f6-75d8-4a33-aec5-6f3c8b684723",
+      "sequence_id": "107599f1-9055-42b8-82d4-e6008cbf706f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "012f4e2c-d235-49a5-a21c-6e138b5aa6d3",
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            0.8002874,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.06675577,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00006676
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "9c9b1505-d364-47ca-844f-63bb2ceac06c",
+        "translation": [
+          -18.8836784,
+          6.38929272,
+          -9.423553
+        ],
+        "rotation": [
+          0.128575251,
+          -0.236433774,
+          0.0315811373,
+          0.962585151
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBc6e6d748-7124-4fe6-af95-5bc5b3a9ab89/rgb_1001.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "c9cecc63-f422-4c56-8ce7-37152cae61fb",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Modem",
+  "instance_id": 1,
+  "x": 514.0,
+  "y": 431.0,
+  "width": 194.0,
+  "height": 122.0
+}
+          ]
+        },
+        {
+          "id": "53d9e8a0-b317-4b46-8900-82464bf67dd3",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation/segmentation_1001.png"
+        }
+      ]
+    }
+  ]
+}
