@@ -1,0 +1,1 @@
+python object_detection/model_main.py --pipeline_config_path=object-detection-tfod-api/ssds_and_rcnn/lisa/experiments/training/faster_rcnn_lisa.config -model_dir=object-detection-tfod-api/ssds_and_rcnn/lisa/experiments/training --num_train_steps=30000 --sample_1_of_n_eval_examples=1 --alsologtostderr
