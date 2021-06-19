@@ -83,7 +83,6 @@ def main(_):
     # put all captures.json files in a list
     jsonFilesList = ["synthetic_ds/" + f for f in os.listdir('synthetic_ds') if f.endswith('.json')]
     # print(["synthetic_ds/" + filename for filename in os.listdir('synthetic_ds') if fnmatch.fnmatch(filename, '[captures]*.json')])
-    print(jsonFilesList)
 
     # create new merged_captures.json which has contents of all capture json files
     merge_JSONFiles(jsonFilesList)
@@ -94,9 +93,8 @@ def main(_):
         contents = json.loads(j.read())
 
     for image in contents['captures']:
-        print(len(contents['captures']))
         imagePath = "dataset/" + image['filename'].split('/')[-1] # just the rgb part of the filename
-        # print("CHECK imagepath:", imagePath)
+        print("CHECK imagepath:", imagePath)
         for annotation in image['annotations'][0]['values']:
             label = annotation['label_name']
             startX = annotation['x']

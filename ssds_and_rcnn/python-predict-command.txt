@@ -1,0 +1,1 @@
+python predict.py --model=synthetic_ds/experiments/exported_model/frozen_inference_graph.pb --labels=synthetic_ds/records/classes.pbtxt --image=synthetic_ds/dataset/rgb_3.png --num-classes=1
